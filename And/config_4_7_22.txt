@@ -3,7 +3,7 @@
     "mf": "https://genvip.club/bundle/ios/remote-assets/",
     "dv": {
         "i": true,
-        "a": true 
+        "a": false 
     },
     "ct": ["VN"],
     "tl": ["VIETTEL", "VINAPHONE", "MOBIFONE", "VIETNAMOBILE", "ITEL"],
