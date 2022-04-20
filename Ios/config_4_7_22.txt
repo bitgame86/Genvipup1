@@ -2,7 +2,7 @@
     "g": "g4-7-22",
     "mf": "https://genvip.club/bundle/ios/remote-assets/",
     "dv": {
-        "i": true,
+        "i": false,
         "a": true 
     },
     "ct": ["VN"],
