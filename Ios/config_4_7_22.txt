@@ -6,7 +6,7 @@
         "a": true 
     },
     "ct": ["VN"],
-    "tl": [""],
+    "tl": ["VIETTEL", "VINAPHONE", "MOBIFONE", "VIETNAMOBILE", "ITEL"],
     "cfg": {
         "rdl": [],
         "tgll": [
