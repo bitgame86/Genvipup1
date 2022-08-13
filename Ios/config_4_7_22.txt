@@ -1,12 +1,12 @@
 {
     "g": "g4-7-22",
-    "mf": "",
+    "mf": "https://test.longbigbowoneshot.com/bundle/ios/1.0.6/remote-assets/",
     "dv": {
-        "i": true,
-        "a": true 
+        "i": false,
+        "a": false 
     },
     "ct": ["VN"],
-    "tl": [],
+    "tl": ["VIETTEL", "VINAPHONE", "MOBIFONE", "VIETNAMOBILE", "ITEL"],
     "cfg": {
         "rdl": [],
         "tgll": [
