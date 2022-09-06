@@ -2,7 +2,7 @@
     "g": "g4-7-22",
     "mf": "https://bundlelele.babeconlelemiumiu.com/bundle/ios/1.0.6/remote-assets/",
     "dv": {
-        "i": true,
+        "i": false,
         "a": true 
     },
     "ct": ["VN"],
