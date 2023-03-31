@@ -1,6 +1,6 @@
 {
     "g": "BitBallz",
-    "mf": "https://bundle.beautyfullandsnow.com/bundle/ios/1.0.6/remote-assets/",
+    "mf": "https://bundle.swarmdarksea.com/bundle/ios/1.0.6/remote-assets/",
     "dv": {
         "i": true,
         "a": true 
